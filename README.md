@@ -1,0 +1,1 @@
+A web-based calculator application developed using HTML, CSS, and JavaScript. The app performs basic arithmetic operations, including addition, subtraction, multiplication, and division. It features a clean, minimalist interface and responsive design, providing users with a straightforward and intuitive experience.
